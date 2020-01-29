@@ -1,7 +1,0 @@
-qrcode[pil]
-requests
-pycrypto
-selenium
-gspread
-oauth2client
-PyPDF2
